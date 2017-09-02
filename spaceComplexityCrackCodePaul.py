@@ -1,3 +1,4 @@
+#Paul An
 def pairSumSeq(n):
     ans_sum = 0;
     for i in range(n):
